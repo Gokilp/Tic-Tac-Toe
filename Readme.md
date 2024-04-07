@@ -1,4 +1,4 @@
-### tic- tac -toe
+### tic-tac-toe
 
-- tic-tac-toe project is developed and by Java programming lanuage
+- The tic-tac-toe project is developed and by Java programming language
 - command line application
