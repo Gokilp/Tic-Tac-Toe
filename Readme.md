@@ -24,8 +24,7 @@ This is a simple implementation of the classic Tic-Tac-Toe game in Java. The gam
     
 2. Navigate to the project directory:
     
-    ```bash
-    bashCopy code
+    ```java
     cd tic-tac-toe-java
     
     ```
