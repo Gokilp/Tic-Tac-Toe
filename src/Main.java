@@ -8,5 +8,5 @@ class Main {
                 board[row][col] = ' ';
             }
         }
-
     }
+}
